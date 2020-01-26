@@ -23,4 +23,6 @@ Ahmad K. Al-Mahasneh
      - jest --verbose --coverage
 - Describe any tests that you did not complete, skipped, etc
      - the test for the returned updated content. 
+
 #### UML
+![Asynch](assets/Asynch.jpg)
